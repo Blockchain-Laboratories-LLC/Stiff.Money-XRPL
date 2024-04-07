@@ -1,9 +1,27 @@
 # Stiff.Money-XRPL
 https://stiff.money Crowdlending dApp, funding dreams of home ownership
 
+![](http://stiffmoney.com/wp-content/uploads/2024/04/StiffMoney-Crowdlending-logo300.png)
+
 PBW Hackathon PitchDeck https://docs.google.com/presentation/d/1rD-Hqnk-mHQhLYI3cDlk_1Nee6eIeIAY-V-CRAefOWY/
 
-![](http://stiffmoney.com/wp-content/uploads/2024/04/StiffMoney-Crowdlending-logo300.png)
+Stiff.Money XRPL testnet Master Accout https://test.bithomp.com/explorer/rfteF4t38NsexbW69CHVgJQgfLSNCcnvdB
+activates other wallets the organization uses
+
+Stiff.Money XRPL testnet LoanProject Master Account https://test.bithomp.com/explorer/rf3WJ2bFPEomq5qyexvYh2jnxNu3PDhh9s
+activates segregated wallet for each LoanProject
+
+Stiff.Money XRPL testnet LoanProject Segregated Account https://test.bithomp.com/explorer/rnq477Tk2FrcxchpkkzyUpVZDNUCGrmQd2
+LoanProject Account that mints NFTs and FTs related to its loan
+
+Stiff.Money LoanProject DiD NFT https://test.bithomp.com/nft/00000000350665064293D67199A2A1F63C2329D404DD0661D63F1DD702CA183C
+Identifies the XRPL account as belonging to a LoanProject and have IPFS links to legel documents relating project
+
+Stiff.Money LoanProject NOTE NFT https://test.bithomp.com/nft/00000000350665064293D67199A2A1F63C2329D404DD0661ED24EED802CA183D
+Legal document relating to the backing of the NOTE Tokens
+
+Stiff.Money LoanProject NOTE Tokens https://test.bithomp.com/explorer/B2B80E24AB3E121C262748884498ADBE5E4A25BCB1587E501BA18250FB96EAC0
+Legal document relating to the backing of the NOTE Tokens
 
 ## Stiff.Money CrowdLoans 
 P2P Real Estate Lending Protocol
