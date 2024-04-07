@@ -1,6 +1,8 @@
 # Stiff.Money-XRPL
 https://stiff.money Crowdlending dApp, funding dreams of home ownership
 
+PBW Hackathon PitchDeck https://docs.google.com/presentation/d/1rD-Hqnk-mHQhLYI3cDlk_1Nee6eIeIAY-V-CRAefOWY/
+
 ![](http://stiffmoney.com/wp-content/uploads/2024/04/StiffMoney-Crowdlending-logo300.png)
 
 ## Stiff.Money CrowdLoans 
